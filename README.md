@@ -5,3 +5,5 @@ How to use write your assembly code in binary in a file according to the CHARIS 
 
 CHARIS INSTRUCTION SET
 ![dc](https://user-images.githubusercontent.com/57042269/178335096-963c1491-3421-47a6-a3d2-e12f6ea1ac5a.png)
+
+*The report does include a summary of the pipelined cpu as well as the multicycle one 
